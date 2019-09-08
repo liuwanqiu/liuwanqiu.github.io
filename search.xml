@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[文章名称]]></title>
+    <title><![CDATA[hexo常用操作]]></title>
+    <url>%2F2019%2F09%2F08%2Fhexo%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C%2F</url>
+    <content type="text"><![CDATA[1.新建一篇文章： 1hexo new [layout] &lt;title&gt; layout 可选参数，用以指定文章类型，若无指定则默认由配置文件中的 default_layout 选项决定 title 必填参数，用以指定文章标题，如果参数值中含有空格，则需要使用双引号包围 2.启动服务器 1hexo server 3.常用的组合命令，清除缓存，生成静态文件，并部署到指定仓库： 1hexo clean &amp;&amp; hexo g &amp;&amp; hexo d 4.hexo 文章太长截断（下面的将会不展示） 1&lt;!-- more --&gt;]]></content>
+      <categories>
+        <category>网站搭建</category>
+      </categories>
+      <tags>
+        <tag>hexo</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[postman 常用技能]]></title>
     <url>%2F2019%2F09%2F05%2F%E6%96%87%E7%AB%A0%E5%90%8D%E7%A7%B0%2F</url>
     <content type="text"></content>
       <categories>
